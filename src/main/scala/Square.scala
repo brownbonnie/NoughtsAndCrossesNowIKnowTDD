@@ -1,9 +1,5 @@
 case class Square(state: String = "") {
 
-  def changeState(userSymbol: String) = {
-
-    Square(state = userSymbol)
-
-  }
+  def changeState(userSymbol: String) = Square(state = userSymbol)
 
 }
