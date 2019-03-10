@@ -19,5 +19,8 @@ class GameBoard() {
     "└─────────────────────────────┘\n"
   }
 
+  def updatedBoard(squareChosen: String) = {
+  }
+
 
 }
